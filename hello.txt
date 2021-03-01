@@ -1,0 +1,10 @@
+#include<iostream>
+int main(){
+std::cout<<"Hello World";
+int i=10;
+if(i>1){
+std::cout<<"it's positive";
+}
+
+return 0;
+}
